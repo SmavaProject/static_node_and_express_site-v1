@@ -1,0 +1,80 @@
+{
+  "projects": [
+    {
+      "id": "0",
+      "project_name": "Random Quote Generator",
+      "description": "",
+      "technologies": [
+        "JavaScript",
+        "HTML"
+      ],
+      "live_link": "",
+      "github_link": "https://github.com/SmavaProject/a_random_quote_generator-v1",
+      "img_urls": [
+        ""
+      ]
+    },
+    {
+      "id": "1",
+      "project_name": "List Pagination and Filtering",
+      "description": "",
+      "technologies": [
+        "JavaScript",
+        "HTML",
+        "CSS"
+      ],
+      "live_link": "",
+      "github_link": "https://github.com/SmavaProject/list_pagination_and_filtering-v1",
+      "img_urls": [
+        ""
+      ]
+    },
+    {
+      "id": "2",
+      "project_name": "Interactive Form",
+      "description": "",
+      "technologies": [
+        "JavaScript",
+        "HTML",
+        "CSS"
+      ],
+      "live_link": "",
+      "github_link": "https://github.com/SmavaProject/interactive-form-v2",
+      "img_urls": [
+        ""
+      ]
+    },
+    {
+      "id": "3",
+      "project_name": "Phrase Hunter game",
+      "description": "",
+      "technologies": [
+        "JavaScript",
+        "HTML",
+        "CSS"
+      ],
+      "live_link": "",
+      "github_link": "https://github.com/SmavaProject/oop_game-v2",
+      "img_urls": [
+        ""
+      ]
+    },
+    {
+      "id": "4",
+      "project_name": "Employee galery app",
+      "description": "",
+      "technologies": [
+        "JavaScript",
+        "API Requests",
+        "JSON",
+        "HTML",
+        "CSS"
+      ],
+      "live_link": "",
+      "github_link": "https://github.com/SmavaProject/public_api_request-v1",
+      "img_urls": [
+        ""
+      ]
+    }
+  ]
+}
