@@ -3,7 +3,7 @@
     {
       "id": "0",
       "project_name": "Random Quote Generator",
-      "description": "",
+      "description": "The projects generates a random quote every minute. It also changes background color for the quote",
       "technologies": [
         "JavaScript",
         "HTML"
@@ -11,7 +11,9 @@
       "live_link": "",
       "github_link": "https://github.com/SmavaProject/a_random_quote_generator-v1",
       "img_urls": [
-        ""
+        "/static/images/projects/0/project-0-picture-0.png",
+        "/static/images/projects/0/project-0-picture-1.png",
+        "/static/images/projects/0/project-0-picture-2.png"
       ]
     },
     {
