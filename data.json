@@ -19,7 +19,7 @@
     {
       "id": "1",
       "project_name": "List Pagination and Filtering",
-      "description": "",
+      "description": "List breaks down students into multiple pages",
       "technologies": [
         "JavaScript",
         "HTML",
@@ -28,13 +28,15 @@
       "live_link": "",
       "github_link": "https://github.com/SmavaProject/list_pagination_and_filtering-v1",
       "img_urls": [
-        ""
+        "/static/images/projects/1/project-1-picture-0.png",
+        "/static/images/projects/1/project-1-picture-1.png",
+        "/static/images/projects/1/project-1-picture-2.png"
       ]
     },
     {
       "id": "2",
       "project_name": "Interactive Form",
-      "description": "",
+      "description": "Form to register for a Java Script dev conference. Dont forget to choose your T-shirt style!",
       "technologies": [
         "JavaScript",
         "HTML",
@@ -43,28 +45,33 @@
       "live_link": "",
       "github_link": "https://github.com/SmavaProject/interactive-form-v2",
       "img_urls": [
-        ""
+        "/static/images/projects/2/project-2-picture-0.png",
+        "/static/images/projects/2/project-2-picture-1.png",
+        "/static/images/projects/2/project-2-picture-2.png"
       ]
     },
     {
       "id": "3",
       "project_name": "Phrase Hunter game",
-      "description": "",
+      "description": "Fun game for smart people - guess which phrase is hidden!",
       "technologies": [
         "JavaScript",
+        "Object oriented programming",
         "HTML",
         "CSS"
       ],
       "live_link": "",
       "github_link": "https://github.com/SmavaProject/oop_game-v2",
       "img_urls": [
-        ""
+        "/static/images/projects/3/project-3-picture-0.png",
+        "/static/images/projects/3/project-3-picture-1.png",
+        "/static/images/projects/3/project-3-picture-2.png"
       ]
     },
     {
       "id": "4",
-      "project_name": "Employee galery app",
-      "description": "",
+      "project_name": "Employee gallery app",
+      "description": "The app which displays employee profiles and allows searching for an amployee by name",
       "technologies": [
         "JavaScript",
         "API Requests",
@@ -75,7 +82,9 @@
       "live_link": "",
       "github_link": "https://github.com/SmavaProject/public_api_request-v1",
       "img_urls": [
-        ""
+        "/static/images/projects/4/project-4-picture-0.png",
+        "/static/images/projects/4/project-4-picture-1.png",
+        "/static/images/projects/4/project-4-picture-2.png"
       ]
     }
   ]
