@@ -21,6 +21,7 @@ block content
         a.button.expanded(href=project.live_link) Live Demo
         a.button.expanded(href=project.github_link) GitHub Repo
 
-    each image in project.img_urls
-        img.image(src=image)
-        br
+    each image, index in project.img_urls
+        if index !== 0
+            img.image(src=image)
+            br
