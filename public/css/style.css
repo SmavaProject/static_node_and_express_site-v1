@@ -28,6 +28,7 @@ h1,h2,h3,h4,h5,p{
 
 .text-light{
   color: #666;
+  font-weight: bold;
 }
 
 .button{
@@ -50,9 +51,9 @@ a:hover{
   display: inline-block;
   max-width: 100%;
   margin-bottom: 1rem;
-  border: solid 4px #fefefe;
+  border: solid 4px #C0C0C0;
   border-radius: 0;
-  box-shadow: 0 0 0 1px rgba(10, 10, 10, 0.2);
+  box-shadow: 5px 10px #888888;
   line-height: 0;
 }
 
@@ -113,7 +114,9 @@ a:hover{
 }
 
   .portfolio-index .thumbnail{
-    margin-bottom: 5px;
+    margin-bottom: 15px;
+    border: solid 4px #C0C0C0;
+    box-shadow: 5px 10px #888888;
   }
 
   .portfolio-index a{
@@ -147,4 +150,16 @@ a:hover{
 
 .portfolio-bio{
     line-height: 25px;
+}
+
+a.button.expanded{
+  animation-name: changeColor;
+  animation-duration: 15s;
+  animation-iteration-count: infinite;
+}
+@keyframes changeColor {
+  0%   {background-color: white; color:black; font-weight: bold;}
+  25%  {background-color: silver; color:gray; font-weight: bold;}
+  50%  {background-color: gray; color:silver; font-weight: bold;}
+  100% {background-color: black; color:white; font-weight: bold;}
 }

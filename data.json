@@ -20,11 +20,10 @@
     {
       "id": "1",
       "project_name": "List Pagination and Filtering",
-      "description": "List breaks down students into multiple pages",
+      "description": "List of students which is split into multiple pages",
       "technologies": [
         "JavaScript",
-        "HTML",
-        "CSS"
+        "HTML"
       ],
       "live_link": "https://smavaproject.github.io/list_pagination_and_filtering-v1",
       "github_link": "https://github.com/SmavaProject/list_pagination_and_filtering-v1",
